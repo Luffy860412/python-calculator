@@ -21,7 +21,7 @@
 
 ## 使用方法 (V2.0 執行檔版本)
 
-1.  **下載執行檔：**  前往 [**[Releases 頁面](https://github.com/Luffy860412/python-calculator/releases/tag/v2.0)**](https://github.com/Luffy860412/python-calculator/releases/tag/v2.0)  (請替換成你專案的 Releases 頁面連結)，在 **"Assets"** 區塊下載適用於您作業系統的執行檔 (目前提供 Windows 版本，例如 `calculator_v2.0_windows_x64.exe`)。
+1.  **下載執行檔：**  前往 [**[Releases 頁面](https://github.com/Luffy860412/python-calculator/releases/tag/v2.0)**](https://github.com/Luffy860412/python-calculator/releases/tag/v2.0) ，在 **"Assets"** 區塊下載適用於您作業系統的執行檔 (目前提供 Windows 版本，例如 `calculator_v2.0_windows_x64.exe`)。
 
     [Image of GitHub Release Page Assets Section Highlighted]
 
@@ -69,7 +69,7 @@
 
 ## 下載 V2.0 圖形介面執行檔版本
 
-*   **[Releases 頁面](https://github.com/Luffy860412/python-calculator/releases/tag/v2.0)**https://github.com/Luffy860412/python-calculator/releases/tag/v2.0
+*   **[Releases 頁面](https://github.com/Luffy860412/python-calculator/releases/tag/v2.0)** https://github.com/Luffy860412/python-calculator/releases/tag/v2.0
 
 ---
 
