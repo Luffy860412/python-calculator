@@ -69,10 +69,10 @@
 
 ## 下載 V2.0 圖形介面執行檔版本
 
-*   [**[Releases 頁面](https://github.com/Luffy860412/python-calculator/releases/tag/v2.0)**](https://github.com/Luffy860412/python-calculator/releases/tag/v2.0)
+*   **[Releases 頁面](https://github.com/Luffy860412/python-calculator/releases/tag/v2.0)**https://github.com/Luffy860412/python-calculator/releases/tag/v2.0
 
 ---
 
-**作者：** [Luffy860412]
+**作者：** [Luffy860412](https://github.com/Luffy860412)
 
 **建立日期：** 2025-02-21
